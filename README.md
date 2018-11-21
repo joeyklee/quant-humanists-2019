@@ -1,7 +1,6 @@
 # Quant Humanists: Designing Personal Data
-(Formerly Quant Humanists: the "I" in API)
 
-Welcome to the basic course repository for syllabus, slides, materials for Quant Humanists: the 'I' in API, Spring 2019, a course for NYU's ITP program.
+Welcome to the course repository for Quant Humanists: Designing Personal Data, Spring 2019, a course for NYU's ITP program. Here you will find the links to and materials for the course such as the syllabus and more.
 
 ### Instructor
 
@@ -17,4 +16,8 @@ Read on for the:
 - [syllabus](SYLLABUS.md)
 - [materials](MATERIALS.md)
 - lectures/exercises in this repository.
+
+***
+
+> NOTE: [Quant Humanists: the "I" in API, Spring 2018](https://github.com/joeyklee/quant-humanists-2018) was designed and built by [Aurelia Moser](http://aureliamoser.com/) & [Joey Lee](http://www.jk-lee.com). 
 
