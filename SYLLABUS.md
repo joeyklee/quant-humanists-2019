@@ -1,12 +1,11 @@
-# Quant Humanists: the 'I' in API: SYLLABUS
-
-[![Join the chat at https://gitter.im/joeyklee/quant-humanists-2018](https://badges.gitter.im/joeyklee/quant-humanists-2018.svg)](https://gitter.im/joeyklee/quant-humanists-2018?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Quant Humanists: Designing Personal Data 
+## SYLLABUS
 
 
 ## COURSE LOGISTICS 
 
-#### Instructors
-Joey Lee (@leejoeyk // joeyklee@nyu.edu ) 
+#### Instructor
+[Joey Lee](http://www.jk-lee.com) (@leejoeyk // joeyklee@nyu.edu ) 
 
 #### Time
 >Mondays 6:30pm to 9:25pm <br>
