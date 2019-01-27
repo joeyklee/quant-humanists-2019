@@ -5,20 +5,21 @@
 ## COURSE LOGISTICS 
 
 #### Instructor
-[Joey Lee](http://www.jk-lee.com) (@leejoeyk // joeyklee@nyu.edu ) 
+[Joey Lee](http://www.jk-lee.com) (github: @joeyklee // joeyklee@nyu.edu ) 
+
 
 #### Time
 >Mondays 6:30pm to 9:25pm <br>
-ROOM TBD<br>
+CLASSROOM 20<br>
 Jan. 28 - Apr. 29<br>
 12 meetings // 4 Point Course<br>
 
 #### Office Hours
 >Thursdays, 5:00-6:15pm<br>
-Room: TBD
+Room: ITP FLOOR or ITP RESIDENT'S OFFICE
 
 [**Link to the course listing**<br> **Category**: 4 Point, All, Elective, Evening, Monday, New, Yes<br>
-**Tags**: data, design, programming, quantifiedself | <br>](#)
+**Tags**: data, design, programming, quantifiedself | <br>](https://www.coursicle.com/nyu/courses/ITPGGT/2185/)
 
 
 ## CALENDAR
@@ -30,11 +31,12 @@ Room: TBD
 
 NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after having been assigned previously. In other words, please submit the assignment **before class** that week.
 
+<!-- 
 | GO TO  |  DATE  | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ------ | ------ | ----------- | ---- |
-|  <a href="WEEK_01.md" target="_blank">WEEK 1</a>   |  01/22/2018  | Track: Introduction to Quantified Humanists & Self-tracking | Hello & Welcome! | N/A |
-|  <a href="WEEK_02.md" target="_blank">WEEK 2</a>   |  01/29/2018  | Track: Representation and Access in Tracking | 1. Data collection <br> 2. 3 Project Review <br> 3. Reflection Post | N/A |
-|  <a href="WEEK_03.md" target="_blank">WEEK 3</a>   |  02/05/2018  | Reflect: Visualization, Representation, and Analysis | 1. Methodology Documentation <br> 2. DIY Tracking Tutorial <br> 3. Reflection Post  | N/A |
+|  <a href="WEEK_01.md" target="_blank">WEEK 1</a>   |  01/28/2018  | Track: Introduction to Quantified Humanists & Self-tracking | Hello & Welcome! | N/A |
+|  <a href="WEEK_02.md" target="_blank">WEEK 2</a>   |  02/04/2018  | Track: Representation and Access in Tracking | 1. Data collection <br> 2. 3 Project Review <br> 3. Reflection Post | N/A |
+|  <a href="WEEK_03.md" target="_blank">WEEK 3</a>   |  02/11/2018  | Reflect: Visualization, Representation, and Analysis | 1. Methodology Documentation <br> 2. DIY Tracking Tutorial <br> 3. Reflection Post  | N/A |
 |  <a href="WEEK_04.md" target="_blank">WEEK 4</a>   |  02/12/2018  | Reflect: Quant Self as a Service | 1. "Dear Data" <br> 2. Reflection Post | N/A |
 |  X   |  02/19/2018  | *HOLIDAY, NO CLASS*  | *Continue Quant Self Service Concept*  | N/A |
 |  <a href="WEEK_05.md" target="_blank">WEEK 5</a>   |  02/26/2018  | Act: Interventions | 1. Quant Self Service Concept <br> 2. Reflection Post  | N/A |
@@ -48,11 +50,38 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | <a href="WEEK_12.md" target="_blank">WEEK 12</a>   |  04/23/2018  | Last Class | Final Projects Due & Presentations | 🎉 |
 | <a href="FINAL-PROJECT-REFERENCES.md" target="_blank">FINAL PROJECT REFERENCES</a>   |  FINAL PROJECTS  | RESOURCES |  | 🤓 |
 
+-->
+
+
+| GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
+| :---- | ---- | ----- | -------------- | ---- |
+| [WEEK 01](WEEK_01.md) | JAN 28 | TBA | Hello & Welcome | Happy 2019! |
+| [WEEK 02](WEEK_02.md) | FEB 04 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 03](WEEK_03.md) | FEB 11 | TBA | ASSIGNMENT## | N/A |
+| HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
+| [WEEK 04](WEEK_04.md) | FEB 25 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 05](WEEK_05.md) | MAR 04 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 06](WEEK_06.md) | MAR 11 | TBA | ASSIGNMENT## | N/A |
+| HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
+| [WEEK 07](WEEK_07.md) | MAR 25 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 08](WEEK_08.md) | APR 01 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 09](WEEK_09.md) | APR 08 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 10](WEEK_10.md) | APR 15 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 11](WEEK_11.md) | APR 22 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 12](WEEK_12.md) | APR 29 | TBA | ASSIGNMENT## | N/A |
+
 
 
 ## COMMUNICATION
-* [GitHub & Github Issues]() — Main source of information, assignments, important dates, and more
-
+* [GitHub Repository](https://github.com/joeyklee/quant-humanists-2019/blob/master/SYLLABUS.md) — Main source of information, assignments, important dates, and more
+* [Github Issues](https://github.com/joeyklee/quant-humanists-2019/issues) - Assignment Submissions & general public announcements
+* Email:
+  * 📬 joeyklee@nyu.edu
+  * NOTE: regarding email communication - I don't expect you to respond to my emails late at night or on weekends. I will do my best to get back to you as soon as I can, but please give me at least 24hrs before sending me a reminder. Before emailing, you should answer the following questions:
+    * 1. Did you do a web search first (e.g. did you google for an answer to your question?)
+    * 2. Did you check the class notes or relevant course material for the answer?
+    * 3. Did you ask a classmate or collegue who might know the answer?
+    * 4. If I was Tom Igoe or Allison Parish, would you still ask me that question?
 
 ## MATERIALS
 
@@ -86,7 +115,7 @@ By working with and visualizing their own quantified self, students will:
 
 ## GRADING
 
-Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. It is understood that coding is tough and you may be new to this, you will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peer reviewers, and your ability to justify your decisions thoughtfully.
+Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. It is understood that coding and making things is tough, therefore your effort, curiosity, and engagement is of utmost importance. You will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peers, and your ability to justify your decisions thoughtfully.
 
 GRADE CALCULATION:
 Here is a basic breakdown of graded tasks along that trajectory:
@@ -95,6 +124,16 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * 20% Project Proposal
 * 40% Final Project, completed on conclusion of the course
 * TOTAL: 100%
+
+Here's an outline of how your work will generally be evaluated. The explaners of each category are rough guidelines for how I assign numbers (or quantify 😉) to the work you are producing in this class. Inspired by [cmda-tt course](https://github.com/cmda-tt/course-17-18/tree/master/assessment-3).
+
+| Category | 1 - 2 pts | 3 - 4 pts | 5 - 6 pts | 7 - 8 pts | 9 - 10 pts |
+| :------- | --------- | --------- | --------- | --------- | ---------- |
+| **Quality**  | The work is handed in late, broken, incomplete, undocumented, or shows lack of care or thought | The work is only partially documented and seems only partially complete | The work is documented and represents the student's concept and shows good effort | The work is well documented, thoughtful, and professional | The work shows mastery and is well polished |
+| **Understanding** | There is either no substance or the student cannot explain or justify decision making | The work shows partial grasp of the concepts, but shows major gaps that could be addressed with more thought | The work is sensible and grounded and can be explained in a coherent manner | The work represents the concept well, references past and current work. The student can speak to more than 1 perspective. | The work shows strong graps of concepts and the state-of-the-art. The work is well received in both concept and implementation |
+| **Application** | The work reflects very little conceptual references to the course materials; a general lack of awareness to methodology and implementation | The work applies methodology(ies) that have some potential, but not quite relevant or effective | The work uses methods that are appropriate and thoughtful. The application of methods are standard and show good potential | The work uses methods that are appropriate, thoughtful, and well implemented. There are innovative ideas that are shown in the application. | There work shows careful methodological considerations and is beautifully crafted, designed, and presented. |
+
+
 
 ## Code of Conduct
 
