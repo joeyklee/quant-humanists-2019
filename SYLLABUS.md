@@ -56,10 +56,10 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
 | [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
-| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Tracking at Scale and You  | ASSIGNMENT 1 - data double | Data Tools & Geotracking |
-| [WEEK 03](WEEK_03.md) | FEB 11 | Track: Representation & Access  | ASSIGNMENT 2 - geotracker+  | Web mapping tutorial |
+| [WEEK 02](WEEK_02.md) | FEB 04 | Track: The value of you | ASSIGNMENT 1 - data double | Data Tools & Geotracking |
+| [WEEK 03](WEEK_03.md) | FEB 11 | Track: Self-Tracking Practices  | ASSIGNMENT 2 - geotracker+  | Web mapping tutorial |
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: N of 1  | ASSIGNMENT 3 - where am I? | Feathersjs Tutorial |
+| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Representation & Access  | ASSIGNMENT 3 - where am I? | Feathersjs Tutorial |
 | [WEEK 05](WEEK_05.md) | MAR 04 | Reflect: Visualization & Analysis |  N/A  | D3 Tutorial |
 | [WEEK 06](WEEK_06.md) | MAR 11 | Reflect: Prosthetic of Feeling | ASSIGNMENT 4 | Feathersjs contd. / D3 Tutorial |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |

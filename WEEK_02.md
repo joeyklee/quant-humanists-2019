@@ -1,11 +1,12 @@
 # WEEK `02`: FEB 4 2019
-##  Track: Data, Representation, and Access in Tracking
+##  The Value of You
 
-> "Self-experimentation with data forces us to wrestle with the uncertain line between evidence and belief and how we come to decisions about what is and is not legitimate knowledge." - Neff & Nafus. The Self-Tracking (The MIT Press Essential Knowledge series) The MIT Press. 
+> “Our data contains a virtual if partial version of the self  -- a ‘data double’ -- living on servers around the world. When it travels a part of us does too. In this way our data has a social life. It is both personal and political at the same time”
 
-This week in Quant Humanists, we will be thinking about representation and access in the world of self-tracking. Who are the target groups for these technologies? How do companies see the people they are looking to service? Who benefits (or is disadvantaged) because of self-tracking versus who could really use such technologies? How are people finding their own ways to track when the right tools don’t exist or when the larger institutional forces oppose them? How do we access the data we produce and what is its value?
 
-We will also spend time this week to do a technical dive into some web technologies that will enable your data handling and visualizaiton. 
+This week in Quant Humanists, we will discuss the value of you and your data. We will take a thoughtful look into data sharing and publishing and privacy. Here we will examine the various ways our personal data is used for and against us and strategies for protecting our privacy (e.g. obfuscation) while still accessing the services that help us make sense of our lives.
+
+We will also spend time this week to do a technical dive into some tools and technologies that will enable your data handling and visualizaiton. 
 
 ### MATERIALS
 - SLIDES: 
@@ -13,14 +14,17 @@ We will also spend time this week to do a technical dive into some web technolog
 ### AGENDA
 
 - Attendance
-- Selected Shareouts & Assignment Reviews:
+- Assignment reviews:
+  - paired feedback
+  - selected Shareouts & Assignment Reviews:
     + Student 1
     + Student 2
     + Student 3
     + Student 4
     + Student 5
-- Data Methods: data, formats, structures, and interfacing
 - Case Study Highlight 
+- The Value of You
+- Data Methods: data, formats, structures, and interfacing
 - Assignment #2
 
 
@@ -74,7 +78,7 @@ We will also spend time this week to do a technical dive into some web technolog
 
 ## ASSIGNMENT 2 (DUE: WEEK `03`, 5 FEB 2018)
 
-Last week we scoured our tools and services for data that has and is being produced about us. This week, we will continue with our focus on tracking but rather shift our attention to collecting data more intentionally with the use of our own homebrewed sensing solutions. Rather than be at the mercy of a company or organization, we will build our own tracking tools (and eventually our own tools to explore our data more visually).
+<!-- Last week we scoured our tools and services for data that has and is being produced about us. This week, we will continue with our focus on tracking but rather shift our attention to collecting data more intentionally with the use of our own homebrewed sensing solutions. Rather than be at the mercy of a company or organization, we will build our own tracking tools (and eventually our own tools to explore our data more visually). -->
 
 
 
