@@ -1,0 +1,906 @@
+{
+  "faceAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 274,
+            "y": 128
+          },
+          {
+            "x": 734,
+            "y": 128
+          },
+          {
+            "x": 734,
+            "y": 663
+          },
+          {
+            "x": 274,
+            "y": 663
+          }
+        ]
+      },
+      "fdBoundingPoly": {
+        "vertices": [
+          {
+            "x": 333,
+            "y": 276
+          },
+          {
+            "x": 651,
+            "y": 276
+          },
+          {
+            "x": 651,
+            "y": 594
+          },
+          {
+            "x": 333,
+            "y": 594
+          }
+        ]
+      },
+      "landmarks": [
+        {
+          "type": "LEFT_EYE",
+          "position": {
+            "x": 448.0609,
+            "y": 373.76538,
+            "z": 0.002422951
+          }
+        },
+        {
+          "type": "RIGHT_EYE",
+          "position": {
+            "x": 575.2663,
+            "y": 366.80768,
+            "z": 15.839064
+          }
+        },
+        {
+          "type": "LEFT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 393.26584,
+            "y": 348.29733,
+            "z": 5.6653194
+          }
+        },
+        {
+          "type": "RIGHT_OF_LEFT_EYEBROW",
+          "position": {
+            "x": 481.1677,
+            "y": 341.6311,
+            "z": -24.556784
+          }
+        },
+        {
+          "type": "LEFT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 548.98517,
+            "y": 337.3818,
+            "z": -16.229912
+          }
+        },
+        {
+          "type": "RIGHT_OF_RIGHT_EYEBROW",
+          "position": {
+            "x": 626.66724,
+            "y": 330.713,
+            "z": 34.007442
+          }
+        },
+        {
+          "type": "MIDPOINT_BETWEEN_EYES",
+          "position": {
+            "x": 517.3322,
+            "y": 370.60352,
+            "z": -21.1892
+          }
+        },
+        {
+          "type": "NOSE_TIP",
+          "position": {
+            "x": 531.1549,
+            "y": 455.43042,
+            "z": -60.189392
+          }
+        },
+        {
+          "type": "UPPER_LIP",
+          "position": {
+            "x": 528.04083,
+            "y": 506.96747,
+            "z": -24.773146
+          }
+        },
+        {
+          "type": "LOWER_LIP",
+          "position": {
+            "x": 530.6323,
+            "y": 546.4888,
+            "z": -13.566844
+          }
+        },
+        {
+          "type": "MOUTH_LEFT",
+          "position": {
+            "x": 460.72284,
+            "y": 521.2863,
+            "z": 8.531107
+          }
+        },
+        {
+          "type": "MOUTH_RIGHT",
+          "position": {
+            "x": 578.1613,
+            "y": 513.56085,
+            "z": 19.986368
+          }
+        },
+        {
+          "type": "MOUTH_CENTER",
+          "position": {
+            "x": 528.1941,
+            "y": 523.18005,
+            "z": -13.856572
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_RIGHT",
+          "position": {
+            "x": 561.31244,
+            "y": 463.00482,
+            "z": -0.5413125
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_LEFT",
+          "position": {
+            "x": 486.34793,
+            "y": 468.29163,
+            "z": -10.2656975
+          }
+        },
+        {
+          "type": "NOSE_BOTTOM_CENTER",
+          "position": {
+            "x": 525.4542,
+            "y": 479.0923,
+            "z": -26.399736
+          }
+        },
+        {
+          "type": "LEFT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 444.60144,
+            "y": 368.6743,
+            "z": -9.946057
+          }
+        },
+        {
+          "type": "LEFT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 473.00806,
+            "y": 377.8885,
+            "z": 3.7155616
+          }
+        },
+        {
+          "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 447.31662,
+            "y": 383.38705,
+            "z": -1.2109774
+          }
+        },
+        {
+          "type": "LEFT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 417.50586,
+            "y": 378.3724,
+            "z": 8.581818
+          }
+        },
+        {
+          "type": "LEFT_EYE_PUPIL",
+          "position": {
+            "x": 442.17166,
+            "y": 378.5073,
+            "z": -3.9494903
+          }
+        },
+        {
+          "type": "RIGHT_EYE_TOP_BOUNDARY",
+          "position": {
+            "x": 584.2358,
+            "y": 358.22308,
+            "z": 7.0560613
+          }
+        },
+        {
+          "type": "RIGHT_EYE_RIGHT_CORNER",
+          "position": {
+            "x": 609.7953,
+            "y": 365.79956,
+            "z": 32.853565
+          }
+        },
+        {
+          "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+          "position": {
+            "x": 579.7569,
+            "y": 376.28833,
+            "z": 15.549946
+          }
+        },
+        {
+          "type": "RIGHT_EYE_LEFT_CORNER",
+          "position": {
+            "x": 551.33563,
+            "y": 374.10254,
+            "z": 13.514262
+          }
+        },
+        {
+          "type": "RIGHT_EYE_PUPIL",
+          "position": {
+            "x": 585.75183,
+            "y": 367.91553,
+            "z": 13.388133
+          }
+        },
+        {
+          "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 436.599,
+            "y": 328.60645,
+            "z": -19.298481
+          }
+        },
+        {
+          "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+          "position": {
+            "x": 588.37164,
+            "y": 317.1443,
+            "z": -0.8378189
+          }
+        },
+        {
+          "type": "LEFT_EAR_TRAGION",
+          "position": {
+            "x": 348.6645,
+            "y": 451.969,
+            "z": 157.89421
+          }
+        },
+        {
+          "type": "RIGHT_EAR_TRAGION",
+          "position": {
+            "x": 655.61383,
+            "y": 426.72787,
+            "z": 201.64046
+          }
+        },
+        {
+          "type": "FOREHEAD_GLABELLA",
+          "position": {
+            "x": 515.55505,
+            "y": 338.4588,
+            "z": -25.70839
+          }
+        },
+        {
+          "type": "CHIN_GNATHION",
+          "position": {
+            "x": 532.30975,
+            "y": 613.2111,
+            "z": 8.85458
+          }
+        },
+        {
+          "type": "CHIN_LEFT_GONION",
+          "position": {
+            "x": 368.14972,
+            "y": 541.14496,
+            "z": 110.766106
+          }
+        },
+        {
+          "type": "CHIN_RIGHT_GONION",
+          "position": {
+            "x": 654.18976,
+            "y": 520.311,
+            "z": 145.36774
+          }
+        }
+      ],
+      "rollAngle": -4.09017,
+      "panAngle": 6.925628,
+      "tiltAngle": -1.8981266,
+      "detectionConfidence": 0.9779123,
+      "landmarkingConfidence": 0.7983451,
+      "joyLikelihood": "UNLIKELY",
+      "sorrowLikelihood": "VERY_UNLIKELY",
+      "angerLikelihood": "VERY_UNLIKELY",
+      "surpriseLikelihood": "VERY_UNLIKELY",
+      "underExposedLikelihood": "VERY_UNLIKELY",
+      "blurredLikelihood": "VERY_UNLIKELY",
+      "headwearLikelihood": "VERY_UNLIKELY"
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/01k74n",
+      "description": "Facial expression",
+      "score": 0.94438577,
+      "topicality": 0.94438577
+    },
+    {
+      "mid": "/m/01yrx",
+      "description": "Cat",
+      "score": 0.9012016,
+      "topicality": 0.9012016
+    },
+    {
+      "mid": "/m/027n3_",
+      "description": "Eyebrow",
+      "score": 0.8639557,
+      "topicality": 0.8639557
+    },
+    {
+      "mid": "/m/01l7qd",
+      "description": "Whiskers",
+      "score": 0.8613269,
+      "topicality": 0.8613269
+    },
+    {
+      "mid": "/m/025kyy",
+      "description": "Forehead",
+      "score": 0.84609026,
+      "topicality": 0.84609026
+    },
+    {
+      "mid": "/m/0f9swq",
+      "description": "Chin",
+      "score": 0.82750785,
+      "topicality": 0.82750785
+    },
+    {
+      "mid": "/m/037p5b",
+      "description": "Cheek",
+      "score": 0.7994795,
+      "topicality": 0.7994795
+    },
+    {
+      "mid": "/m/0dgw9r",
+      "description": "Human",
+      "score": 0.76877445,
+      "topicality": 0.76877445
+    },
+    {
+      "mid": "/m/0307l",
+      "description": "Felidae",
+      "score": 0.74669594,
+      "topicality": 0.74669594
+    },
+    {
+      "mid": "/m/019nj4",
+      "description": "Smile",
+      "score": 0.7291945,
+      "topicality": 0.7291945
+    },
+    {
+      "mid": "/m/07k6w8",
+      "description": "Small to medium-sized cats",
+      "score": 0.71413183,
+      "topicality": 0.71413183
+    },
+    {
+      "mid": "/m/071j9r",
+      "description": "Cool",
+      "score": 0.70318365,
+      "topicality": 0.70318365
+    },
+    {
+      "mid": "/m/0cnmr",
+      "description": "Fur",
+      "score": 0.6912784,
+      "topicality": 0.6912784
+    },
+    {
+      "mid": "/m/0fc1fy",
+      "description": "Black hair",
+      "score": 0.67484003,
+      "topicality": 0.67484003
+    },
+    {
+      "mid": "/m/039xj_",
+      "description": "Ear",
+      "score": 0.5822066,
+      "topicality": 0.5822066
+    },
+    {
+      "mid": "/m/01k9lj",
+      "description": "Jaw",
+      "score": 0.57406723,
+      "topicality": 0.57406723
+    },
+    {
+      "mid": "/m/01lrl",
+      "description": "Carnivore",
+      "score": 0.5604317,
+      "topicality": 0.5604317
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 25,
+            "green": 18,
+            "blue": 17
+          },
+          "score": 0.3937775,
+          "pixelFraction": 0.40056753
+        },
+        {
+          "color": {
+            "red": 231,
+            "green": 234,
+            "blue": 236
+          },
+          "score": 0.09000483,
+          "pixelFraction": 0.1135084
+        },
+        {
+          "color": {
+            "red": 73,
+            "green": 41,
+            "blue": 25
+          },
+          "score": 0.024248855,
+          "pixelFraction": 0.012161614
+        },
+        {
+          "color": {
+            "red": 49,
+            "green": 46,
+            "blue": 46
+          },
+          "score": 0.1130846,
+          "pixelFraction": 0.11747219
+        },
+        {
+          "color": {
+            "red": 36,
+            "green": 8,
+            "blue": 9
+          },
+          "score": 0.109548435,
+          "pixelFraction": 0.0486915
+        },
+        {
+          "color": {
+            "red": 85,
+            "green": 86,
+            "blue": 89
+          },
+          "score": 0.05691316,
+          "pixelFraction": 0.060267556
+        },
+        {
+          "color": {
+            "red": 114,
+            "green": 118,
+            "blue": 123
+          },
+          "score": 0.050691742,
+          "pixelFraction": 0.046574477
+        },
+        {
+          "color": {
+            "red": 190,
+            "green": 195,
+            "blue": 198
+          },
+          "score": 0.035224136,
+          "pixelFraction": 0.036935274
+        },
+        {
+          "color": {
+            "red": 153,
+            "green": 157,
+            "blue": 162
+          },
+          "score": 0.030897602,
+          "pixelFraction": 0.030494122
+        },
+        {
+          "color": {
+            "red": 48,
+            "green": 21,
+            "blue": 9
+          },
+          "score": 0.01731327,
+          "pixelFraction": 0.007567227
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 89
+            },
+            {
+              "x": 899
+            },
+            {
+              "x": 899,
+              "y": 999
+            },
+            {
+              "x": 89,
+              "y": 999
+            }
+          ]
+        },
+        "confidence": 1,
+        "importanceFraction": 1.4399999
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 999
+            },
+            {
+              "x": 999,
+              "y": 999
+            },
+            {
+              "y": 999
+            }
+          ]
+        },
+        "confidence": 1,
+        "importanceFraction": 1.4499999
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 999
+            },
+            {
+              "x": 999,
+              "y": 839
+            },
+            {
+              "y": 839
+            }
+          ]
+        },
+        "confidence": 1,
+        "importanceFraction": 1.4399999
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01yrx",
+        "score": 0.98455435,
+        "description": "Cat"
+      },
+      {
+        "entityId": "/m/04b_46",
+        "score": 0.8746485,
+        "description": "Tisch School Of The Arts"
+      },
+      {
+        "entityId": "/m/02cwm",
+        "score": 0.5517,
+        "description": "Design"
+      },
+      {
+        "entityId": "/m/0bwfn",
+        "score": 0.4927725,
+        "description": "New York University"
+      },
+      {
+        "entityId": "/m/02n94j0",
+        "score": 0.4641,
+        "description": "Interactive Telecommunications Program"
+      },
+      {
+        "entityId": "/g/11f0zk5jtf",
+        "score": 0.4427
+      },
+      {
+        "entityId": "/m/02lvnm",
+        "score": 0.397,
+        "description": "Interaction design"
+      },
+      {
+        "entityId": "/m/09gjgtn",
+        "score": 0.3658,
+        "description": "Generative design"
+      },
+      {
+        "entityId": "/t/24bjj59_jbj9f",
+        "score": 0.3479
+      },
+      {
+        "entityId": "/g/11f62ws8jh",
+        "score": 0.3272
+      },
+      {
+        "entityId": "/t/23rtf3_fnzdqc",
+        "score": 0.3113
+      },
+      {
+        "entityId": "/m/0s9chxk",
+        "score": 0.2894
+      },
+      {
+        "entityId": "/m/01c979",
+        "score": 0.2579,
+        "description": "Designer"
+      },
+      {
+        "entityId": "/g/120_g8jl",
+        "score": 0.2578,
+        "description": "User experience design"
+      },
+      {
+        "entityId": "/m/02_286",
+        "score": 0.00063744007,
+        "description": "New York City"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://tisch.nyu.edu/content/dam/tisch/itp/GeneralPics/joeylee.jpeg.preset.square.jpeg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_normal.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://tisch.nyu.edu/itp/itp-people/faculty/somethings-in-residence-sirs",
+        "pageTitle": "Somethings In Residence (SIRs) - NYU Tisch School of the Arts",
+        "fullMatchingImages": [
+          {
+            "url": "https://tisch.nyu.edu/content/dam/tisch/itp/GeneralPics/joeylee.jpeg.preset.square.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/miccferr?lang=en",
+        "pageTitle": "Michele Ferretti (@miccferr) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/ire_alva?lang=en",
+        "pageTitle": "Irene Alvarado (@ire_alva) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/svadsi?lang=en",
+        "pageTitle": "Design for Soc Inn (@SVADSI) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/1050216041379446786",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;Best in the biz! #MachineLearning for you and ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/1016890991167594498",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;&amp;quot;Hello ==&amp;gt; Bye&amp;quot; Little movers make their way to ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/702011633791406082",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;Micha sharing her geo adventures and all the ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/778594263151943684",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;&amp;quot;Green skin&amp;quot; @moovelLab @whatsuprapha ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/922117992154050560",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;.@jape A/B testing the #future with ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk?lang=en",
+        "pageTitle": "Joey Lee (@leejoeyk) | Twitter",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/1045699791752187907",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;Print or download your @Github #Markdown ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/leejoeyk/status/836949425113169924",
+        "pageTitle": "Joey Lee on Twitter: &amp;quot;I made a little #dataviz #map of my research w ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_400x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/matamalaortiz?lang=en",
+        "pageTitle": "Alejandro Matamala Ortiz (@matamalaortiz) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/slarrick?lang=en",
+        "pageTitle": "Stephen Larrick (@SLarrick) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/whatsuprapha?lang=en",
+        "pageTitle": "Raphael Reimann (@whatsuprapha) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/gnrtvdsgn?lang=en",
+        "pageTitle": "generative design (@gnrtvdsgn) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/profile_images/1079917950998503424/kAK-HgDc_bigger.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2018/09/DNic_Reunited_Cat-6.JPG-376x564.jpg"
+      },
+      {
+        "url": "https://assets.teenvogue.com/photos/55e5d4bbceb4f8187e7a2b1c/master/w_400,c_limit/cats-cat-eyes-02.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hirose_Alice_from_%22The_Travelling_Cat_Chronicles%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2018_%2844705456915%29.jpg"
+      },
+      {
+        "url": "https://thumbs-prod.si-cdn.com/tluXlF_a_ae7rzD5Pi29456SRbw=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/2c/6d/2c6d7477-a801-49c9-b4ea-9ece48a95579/cat_reaction_42-57622801.jpg"
+      },
+      {
+        "url": "https://c8.alamy.com/comp/DKF5WG/veterinarian-examining-black-cat-DKF5WG.jpg"
+      },
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTMxMjU5ODQyM15BMl5BanBnXkFtZTgwMTY1MjQ2NjE@._V1_UY317_CR7,0,214,317_AL_.jpg"
+      },
+      {
+        "url": "https://www.japansociety.org/resources/legacy/event/Website_large_neko3.jpg"
+      },
+      {
+        "url": "http://powerreviews.s3.amazonaws.com/images_customers/04/06/44017979_369663_raw.jpg"
+      },
+      {
+        "url": "https://cuddleclones.com/wp-content/uploads/2018/07/featured-image-2.png"
+      },
+      {
+        "url": "https://www.gannett-cdn.com/-mm-/6dd16fb6e4664e8938ce941a50d6885c3457a7f3/c=0-0-2398-1803/local/-/media/2017/11/10/CarolinaGroup/Greenville/636458967512834397-Cat-Cafe-0382.JPG?width=540&amp;height=405&amp;fit=crop"
+      },
+      {
+        "url": "http://galas3.s3.amazonaws.com/wp-content/uploads/sites/248/2017/07/cat-skin-3-1540x866.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "Cat"
+      }
+    ]
+  }
+}
