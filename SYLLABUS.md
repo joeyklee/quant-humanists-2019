@@ -142,7 +142,6 @@ The easiest thing to do is to just turn thing in on time. You get closure, I can
 - 2. submit documentation of what you've worked on so far, what went wrong, and what you plan to do →
 - 3. late assignments will be marked down half a letter grade (or commensurate points given the scale above) until the assignment receives a C (or equivalent). Do not expect the same quality or timeliness of feedback for late assignments. 
 
-If you do not 
 
 ## Code of Conduct
 
