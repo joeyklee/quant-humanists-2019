@@ -71,7 +71,11 @@ _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 
 - Benson, Buster., [How I track my life with Reporter](https://medium.com/@buster/how-i-track-my-life-7da6f22b8e2c)
 
 
-### ASSIGNMENT 1 (DUE: WEEK `02`, FEBRUARY 04 2019)
+*** 
+***
+***
+
+## ASSIGNMENT 1 (DUE: WEEK `02`, FEBRUARY 04 2019)
 
 There are 3 parts of this week's assignment:
 - A1.1: Personal Data Download

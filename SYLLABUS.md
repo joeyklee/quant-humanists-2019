@@ -55,16 +55,16 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
-| [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Happy 2019! |
-| [WEEK 02](WEEK_02.md) | FEB 04 | Track | ASSIGNMENT 1 | N/A |
-| [WEEK 03](WEEK_03.md) | FEB 11 | Track | TBA  | N/A |
+| [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
+| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Tracking at Scale and You  | ASSIGNMENT 1 - data double | Data Tools & Geotracking |
+| [WEEK 03](WEEK_03.md) | FEB 11 | Track: Representation & Access  | ASSIGNMENT 2 - geotracker+  | Web mapping tutorial |
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect | TBA | N/A |
-| [WEEK 05](WEEK_05.md) | MAR 04 | Reflect | TBA | N/A |
-| [WEEK 06](WEEK_06.md) | MAR 11 | Reflect | TBA | N/A |
+| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: N of 1  | ASSIGNMENT 3 - where am I? | Feathersjs Tutorial |
+| [WEEK 05](WEEK_05.md) | MAR 04 | Reflect: Visualization & Analysis |  N/A  | D3 Tutorial |
+| [WEEK 06](WEEK_06.md) | MAR 11 | Reflect: Prosthetic of Feeling | ASSIGNMENT 4 | Feathersjs contd. / D3 Tutorial |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
-| [WEEK 07](WEEK_07.md) | MAR 25 | Act | TBA | N/A |
-| [WEEK 08](WEEK_08.md) | APR 01 | Act | TBA| N/A |
+| [WEEK 07](WEEK_07.md) | MAR 25 | Act: Interventions | TBA | N/A |
+| [WEEK 08](WEEK_08.md) | APR 01 | Act: Unquantified Self | TBA| N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project proposal | N/A |
 | [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project development| N/A |
 | [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
@@ -137,9 +137,12 @@ Here's an outline of how your work will generally be evaluated. The explaners of
 **LATE ASSIGNMENTS**:
 
 The easiest thing to do is to just turn thing in on time. You get closure, I can give you careful and constructive feedback, and everyone is happy. In the case you can't get you assignment in on time here is the deal:
+
 - 1. email me informing me why your assignment is not submitted on time → 
 - 2. submit documentation of what you've worked on so far, what went wrong, and what you plan to do →
 - 3. late assignments will be marked down half a letter grade (or commensurate points given the scale above) until the assignment receives a C (or equivalent). Do not expect the same quality or timeliness of feedback for late assignments. 
+
+If you do not 
 
 ## Code of Conduct
 

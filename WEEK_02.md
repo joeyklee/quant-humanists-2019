@@ -5,6 +5,8 @@
 
 This week in Quant Humanists, we will be thinking about representation and access in the world of self-tracking. Who are the target groups for these technologies? How do companies see the people they are looking to service? Who benefits (or is disadvantaged) because of self-tracking versus who could really use such technologies? How are people finding their own ways to track when the right tools don’t exist or when the larger institutional forces oppose them? How do we access the data we produce and what is its value?
 
+We will also spend time this week to do a technical dive into some web technologies that will enable your data handling and visualizaiton. 
+
 ### MATERIALS
 - SLIDES: 
 
@@ -37,6 +39,7 @@ This week in Quant Humanists, we will be thinking about representation and acces
 - Eveleth, Rose., [Your Vagina is Not a Machine](http://www.refinery29.com/kgoal-loop-kegels-trackers) + [How self-tracking apps exclude women](https://www.theatlantic.com/technology/archive/2014/12/how-self-tracking-apps-exclude-women/383673/)
 - Meyer, Eric., [Inadvertent algorithmic cruelty](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
+- https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 
 ## ADDITIONAL READINGS
 - Wood, Chris., [The API of Me](https://nordicapis.com/the-api-of-me/)
