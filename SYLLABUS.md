@@ -55,20 +55,20 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
-| [WEEK 01](WEEK_01.md) | JAN 28 | TBA | Hello & Welcome | Happy 2019! |
-| [WEEK 02](WEEK_02.md) | FEB 04 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 03](WEEK_03.md) | FEB 11 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Happy 2019! |
+| [WEEK 02](WEEK_02.md) | FEB 04 | Track | ASSIGNMENT 1 | N/A |
+| [WEEK 03](WEEK_03.md) | FEB 11 | Track | TBA  | N/A |
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 05](WEEK_05.md) | MAR 04 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 06](WEEK_06.md) | MAR 11 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect | TBA | N/A |
+| [WEEK 05](WEEK_05.md) | MAR 04 | Reflect | TBA | N/A |
+| [WEEK 06](WEEK_06.md) | MAR 11 | Reflect | TBA | N/A |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
-| [WEEK 07](WEEK_07.md) | MAR 25 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 08](WEEK_08.md) | APR 01 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 09](WEEK_09.md) | APR 08 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 10](WEEK_10.md) | APR 15 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 11](WEEK_11.md) | APR 22 | TBA | ASSIGNMENT## | N/A |
-| [WEEK 12](WEEK_12.md) | APR 29 | TBA | ASSIGNMENT## | N/A |
+| [WEEK 07](WEEK_07.md) | MAR 25 | Act | TBA | N/A |
+| [WEEK 08](WEEK_08.md) | APR 01 | Act | TBA| N/A |
+| [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project proposal | N/A |
+| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project development| N/A |
+| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
+| [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 |
 
 
 
@@ -117,7 +117,8 @@ By working with and visualizing their own quantified self, students will:
 
 Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final project. It is understood that coding and making things is tough, therefore your effort, curiosity, and engagement is of utmost importance. You will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peers, and your ability to justify your decisions thoughtfully.
 
-GRADE CALCULATION:
+**GRADE CALCULATION**:
+
 Here is a basic breakdown of graded tasks along that trajectory:
 * 10% Attendance/Participation
 * 30% Assignments
@@ -133,7 +134,12 @@ Here's an outline of how your work will generally be evaluated. The explaners of
 | **Understanding** | There is either no substance or the student cannot explain or justify decision making | The work shows partial grasp of the concepts, but shows major gaps that could be addressed with more thought | The work is sensible and grounded and can be explained in a coherent manner | The work represents the concept well, references past and current work. The student can speak to more than 1 perspective. | The work shows strong graps of concepts and the state-of-the-art. The work is well received in both concept and implementation |
 | **Application** | The work reflects very little conceptual references to the course materials; a general lack of awareness to methodology and implementation | The work applies methodology(ies) that have some potential, but not quite relevant or effective | The work uses methods that are appropriate and thoughtful. The application of methods are standard and show good potential | The work uses methods that are appropriate, thoughtful, and well implemented. There are innovative ideas that are shown in the application. | There work shows careful methodological considerations and is beautifully crafted, designed, and presented. |
 
+**LATE ASSIGNMENTS**:
 
+The easiest thing to do is to just turn thing in on time. You get closure, I can give you careful and constructive feedback, and everyone is happy. In the case you can't get you assignment in on time here is the deal:
+- 1. email me informing me why your assignment is not submitted on time → 
+- 2. submit documentation of what you've worked on so far, what went wrong, and what you plan to do →
+- 3. late assignments will be marked down half a letter grade (or commensurate points given the scale above) until the assignment receives a C (or equivalent). Do not expect the same quality or timeliness of feedback for late assignments. 
 
 ## Code of Conduct
 

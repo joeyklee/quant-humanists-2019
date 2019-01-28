@@ -1,5 +1,5 @@
 # WEEK `01`: JAN 28 2019
-## Introduction to Self-Tracking and the 'Quantified Self' 
+## Track: Introduction to Self-Tracking and the 'Quantified Self' 
 
 > "...self-experimentation with data forces us to wrestle with the uncertain line between evidence and belief, and how we come to decisions about what is and is not legitimate knowledge." - Neff, Gina. The Self-Tracking (The MIT Press Essential Knowledge series) (p. 18). The MIT Press. 
 
@@ -10,12 +10,14 @@ What is self-tracking? the Quantified Self? How are we represented by the data w
 - SLIDES: https://docs.google.com/presentation/d/1zRdmhFzt48f4aUWqkJ7zDyewDDJaL7Fls2ZCInvHkxQ/edit?usp=sharing
 
 ### AGENDA
+- Attendance
 - Introductions
 - Course Logistics
 - Break
 - Self-tracking Overview: context, terminology, methods, & resources
 - Project Highlight
 - Self-tracking brainstorm session
+- Assignment #1
 
 **Project Highlight - Critique & Feedback**
 
@@ -26,11 +28,7 @@ Felton Reports [2005](http://feltron.com/FAR05.html); [2012](http://feltron.com/
 _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 years](https://www.wired.com/2015/10/nicholas-felton-obsessively-recorded-his-private-data-for-10-years/)_
 
 
-NYT - location privacy
-https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
-
 ### PRACTICE
-
 
 - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision): In class we looked at some examples of cloud based computer vision APIs that took an input image and "spit back" some results about what the trained AI model believed to be in that input. Below are the two API's we tested. 
     - [Microsoft Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
@@ -73,7 +71,7 @@ https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-ap
 - Benson, Buster., [How I track my life with Reporter](https://medium.com/@buster/how-i-track-my-life-7da6f22b8e2c)
 
 
-### ASSIGNMENT (DUE: WEEK `02`, FEBRUARY 04 2019)
+### ASSIGNMENT 1 (DUE: WEEK `02`, FEBRUARY 04 2019)
 
 There are 3 parts of this week's assignment:
 - Personal Data Download
@@ -103,6 +101,7 @@ There are 3 parts of this week's assignment:
     + Eventbrite
     + New York Times
     + Amazon
+    + Github
 - We will see later on how regulations such as GDPR have influenced how and how we are able to access these data. For now, begin tracking down the digital breadcrumbs of your life. Your task will be to systematically gather the signals of your life as reflected by these tools and services and document the process of collecting these data (e.g. screenshots of sub sub sub menus, notifications, etc). You should ask yourself questions such as:
     + What types of data might be in your data dump?
     + What types of properties might you find in the data that might surpise you?
@@ -113,6 +112,7 @@ There are 3 parts of this week's assignment:
 
 ### Blog Post: Self-Tracking Projects Review
 - **About**: Find 3-5 examples of projects that relate to self-tracking and the quantified self and write a 1. short summary description of the project, 2. the project's broader significance, and 3. why it is interesting to you. When possible, speak to the project implementation as a way to catalog useful methodologies. 
+- Examples of past student assignments: [1](https://gist.github.com/mengzhenxiao/1b69b0ccda3ee8c3d2efb37e703c4d55), [2](https://gist.github.com/chloemar10/6b1006f1489e3e10d1564f98d7dab7ee) 
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
 ### Blog Post: Reflection
