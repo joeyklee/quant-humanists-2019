@@ -74,12 +74,12 @@ _Margaret Rhodes (2015), [This Guy Obsessively Recorded his Private Data for 10 
 ### ASSIGNMENT 1 (DUE: WEEK `02`, FEBRUARY 04 2019)
 
 There are 3 parts of this week's assignment:
-- Personal Data Download
-- Blog Post: Self-Tracking projects review
-- Blog Post: Reflection 
+- A1.1: Personal Data Download
+- A1.2: Blog Post: Self-Tracking projects review
+- A1.3: Blog Post: Reflection 
 
 
-### Personal Data Download 
+### A1.1: Personal Data Download 
 - **About**:  While we will be working on beginning a practice of data collection starting specifically during this course, we will also be looking back into our personal histories by examining our "data doubles" - the manifestations of ourselves reflected in the data we've produced. This week, your task is to begin looking into your data histories you've produced by using the various tools and services we subscribe to. Some examples might be to request and download your data from all the digital services you use. For example, given my digital habits, I would attemp to download and organize my data from:
     + Facebook
     + Whatsapp
@@ -110,12 +110,12 @@ There are 3 parts of this week's assignment:
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
 
-### Blog Post: Self-Tracking Projects Review
+### A1.2: Blog Post: Self-Tracking Projects Review
 - **About**: Find 3-5 examples of projects that relate to self-tracking and the quantified self and write a 1. short summary description of the project, 2. the project's broader significance, and 3. why it is interesting to you. When possible, speak to the project implementation as a way to catalog useful methodologies. 
 - Examples of past student assignments: [1](https://gist.github.com/mengzhenxiao/1b69b0ccda3ee8c3d2efb37e703c4d55), [2](https://gist.github.com/chloemar10/6b1006f1489e3e10d1564f98d7dab7ee) 
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
-### Blog Post: Reflection
+### A1.3: Blog Post: Reflection
 - **About**:  Write a short reflection about what your current relationship with self-tracking (e.g. hopes, dreams, perceptions), questions you have about self-tracking and how it could help or harm you, and how you hope the course will help facilitate your interests. Write about which questions you've identified to track, how you plan to track those variables of interest, and what challenges you expect to encounter as well as what you hope to learn. 
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
 
