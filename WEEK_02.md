@@ -6,7 +6,7 @@
 
 This week in Quant Humanists, we will discuss the value of you and your data. We will take a thoughtful look into data sharing and publishing and privacy. Here we will examine the various ways our personal data is used for and against us and strategies for protecting our privacy (e.g. obfuscation) while still accessing the services that help us make sense of our lives.
 
-We will also spend time this week to do a technical dive into some tools and technologies that will enable your data handling and visualizaiton. 
+We will also spend time this week to do a technical dive into some tools and technologies that will enable your data handling and visualization. Specifically we look over data types and create our first web based application for collecting structured data.
 
 ### MATERIALS
 - SLIDES: 
@@ -21,11 +21,18 @@ We will also spend time this week to do a technical dive into some tools and tec
     + Student 2
     + Student 3
     + Student 4
-    + Student 5
 - Case Study Highlight 
 - The Value of You
-- Data Methods: data, formats, structures, and interfacing
+- Data Methods: data, formats, structures, and simple interfacing
+  - data formats / what is data?
+  - database structure
+  - APIs and REST
+  - Web forms
+  - Client to Server, Server to Client 
+  - Putting it all together with Feathersjs
 - Assignment #2
+
+
 
 
 ## PRACTICE
@@ -76,11 +83,11 @@ We will also spend time this week to do a technical dive into some tools and tec
 - [NPM csv2api package](https://www.npmjs.com/package/node-csv2api)
 
 
-## ASSIGNMENT 2 (DUE: WEEK `03`, 5 FEB 2018)
+## ASSIGNMENT 2 (DUE: WEEK `03`, 11 FEB 2019)
 
-<!-- Last week we scoured our tools and services for data that has and is being produced about us. This week, we will continue with our focus on tracking but rather shift our attention to collecting data more intentionally with the use of our own homebrewed sensing solutions. Rather than be at the mercy of a company or organization, we will build our own tracking tools (and eventually our own tools to explore our data more visually). -->
+Last week we scoured our tools and services for data that has and is being produced about us. This week, we will continue with our focus on tracking but rather shift our attention to collecting data more intentionally with the use of our own homebrewed sensing solutions. 
 
-
+You will use Feathersjs to send data from a form to a web database. You will work from a template and build additional styling and functionality as you see fit. The goal is to try to get a feel for the workflow and components for sending data across the wire from a client to a server.
 
 
 
