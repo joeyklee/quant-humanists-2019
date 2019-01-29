@@ -22,8 +22,8 @@ Below are a list of services that I use and/or have identified as being interest
 
 ## iMessage
 
-- Requested: 
-- Downloaded: 
+- Requested: ✅
+- Downloaded: ✅
 - Notes: 
 - Some notable features or things worth exploring include:
     + ...
@@ -68,6 +68,12 @@ Below are a list of services that I use and/or have identified as being interest
     + ...
 
 ## iHealth
+
+- Requested: ✅
+- Downloaded: ✅
+- Notes: 
+- Some notable features or things worth exploring include:
+    + ...
 
 
 ## Duolingo
@@ -114,7 +120,7 @@ Below are a list of services that I use and/or have identified as being interest
 
 - Requested: TBD
 - Downloaded: 
-- Notes: 
+- Notes: Not Available?
 - Some notable features or things worth exploring include:
     + ...
 
