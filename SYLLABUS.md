@@ -17,7 +17,8 @@ Jan. 28 - Apr. 29<br>
 #### Office Hours
 >By Appointment - Monday & Wednesday, 5:00-6:00pm<br>
 Room: ITP FLOOR or ITP RESIDENT'S OFFICE
-PLEASE SIGN UP: 📅 [Google Calendar Link](https://calendar.google.com/calendar/selfsched?sstoken=UVAyMnctdm1yRlgtfGRlZmF1bHR8MTA1ODQzN2FkMWEyMWU5ZjQ2ZWY1Yjc3ZTQxMzg0OTc)
+
+- PLEASE SIGN UP: 📅 [Google Calendar Link](https://calendar.google.com/calendar/selfsched?sstoken=UVAyMnctdm1yRlgtfGRlZmF1bHR8MTA1ODQzN2FkMWEyMWU5ZjQ2ZWY1Yjc3ZTQxMzg0OTc)
 
 If you can't make those times, please send me an email and we can chat at another time or via video conference.
 
