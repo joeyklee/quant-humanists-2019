@@ -57,25 +57,6 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 
 -->
 
-
-<!-- | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
-| :---- | ---- | ----- | -------------- | ---- |
-| [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
-| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data | ASSIGNMENT 1 - data double | Your own tracking Tools / Feathersjs Tutorial |
-| [WEEK 03](WEEK_03.md) | FEB 11 | Track: Self-Tracking Practices | ASSIGNMENT 2 -   | Feathersjs contd + frontend |
-| HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Representation & Access  | TBD | web mapping tutorial |
-| [WEEK 05](WEEK_05.md) | MAR 04 | Reflect: Visualization & Analysis |  N/A  | D3 Tutorial |
-| [WEEK 06](WEEK_06.md) | MAR 11 | Reflect: Prosthetics of Feeling | ASSIGNMENT 4 | D3 Tutorial |
-| HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
-| [WEEK 07](WEEK_07.md) | MAR 25 | Act: Interventions | TBA | N/A |
-| [WEEK 08](WEEK_08.md) | APR 01 | Act: Unquantified Self | TBA| N/A |
-| [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project proposal | N/A |
-| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project development| N/A |
-| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
-| [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 | -->
-
-
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
 | [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |

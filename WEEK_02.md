@@ -23,6 +23,7 @@ We will take some time today to also look at what are common data formats we mig
     + Student 3
 - Discussion:
   - Quant Self Projects Reviews Highlights
+  - Quick aside: final project seeding 🌱
   - Project Showcase
   - Data Collection and Self-Tracking + Practical Considerations
   - Break
