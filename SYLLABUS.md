@@ -79,14 +79,14 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
 | [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
-| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data and Tracking Practices | ASSIGNMENT 1 - data double | Data Primer & Generative Visuals teaser |
-| [WEEK 03](WEEK_03.md) | FEB 11 | Reflect: Seeing Our Data Selves | ASSIGNMENT 2 - Dear Data  | Your own tracking tools Workshop |
+| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data and Tracking Practices |  A.1 - data double | Data Primer & Generative Visuals teaser |
+| [WEEK 03](WEEK_03.md) | FEB 11 | Reflect: Seeing Our Data Selves | A.2 - Dear Data  | Your own tracking tools Workshop |
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Understanding Our Signals  | ASSIGNMENT 3 - Data Selfie | TBD |
-| [WEEK 05](WEEK_05.md) | MAR 04 | Act: Quant Self as a Service  | ASSIGNMENT 4 - Drawing Connections | TBD |
-| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | ASSIGNMENT 5 - Quant Self Service Concept | TBD |
+| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Understanding Our Signals  | A.3 - Data Selfie | TBD |
+| [WEEK 05](WEEK_05.md) | MAR 04 | Act: Quant Self as a Service  |  A.4 - Drawing Connections | TBD |
+| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | No Assignment | TBD |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
-| [WEEK 07](WEEK_07.md) | MAR 25 | Special Topics | ASSIGNMENT 6 - Intervention | N/A |
+| [WEEK 07](WEEK_07.md) | MAR 25 | Special Topics | A.5 - Intervention | N/A |
 | [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | Final project proposal | N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
 | [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | N/A |
