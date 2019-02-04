@@ -79,7 +79,7 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | GO TO | DATE | THEME | ASSIGNMENT DUE | NOTE |
 | :---- | ---- | ----- | -------------- | ---- |
 | [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
-| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data and Tracking Practices | ASSIGNMENT 1 - data double | TBD |
+| [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data and Tracking Practices | ASSIGNMENT 1 - data double | Data Primer & Generative Visuals teaser |
 | [WEEK 03](WEEK_03.md) | FEB 11 | Track:   | ASSIGNMENT 2 - Dear Data  | Your own tracking tools |
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
 | [WEEK 04](WEEK_04.md) | FEB 25 | Reflect:  | ASSIGNMENT 3 - Data Platform | TBD |
