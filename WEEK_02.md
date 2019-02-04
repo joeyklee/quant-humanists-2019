@@ -1,56 +1,46 @@
 # WEEK `02`: FEB 4 2019
-##  The Value of You
+##  Data and Tracking Practices
 
-> “Our data contains a virtual if partial version of the self  -- a ‘data double’ -- living on servers around the world. When it travels a part of us does too. In this way our data has a social life. It is both personal and political at the same time”
+> “Our data contains a virtual if partial version of the self  -- a ‘data double’ -- living on servers around the world. When it travels a part of us does too. In this way our data has a social life. It is both personal and political at the same time” - Neff & Nafus, Self-Tracking
 
+> "...We learned to pay attention, to live in the present much more, to be more aware of our surroundings..." - Lupi, Dear Data
 
-This week in Quant Humanists, we will discuss the value of you and your data. We will take a thoughtful look into data sharing and publishing and privacy. Here we will examine the various ways our personal data is used for and against us and strategies for protecting our privacy (e.g. obfuscation) while still accessing the services that help us make sense of our lives.
+This week in Quant Humanists, we will focus on practices of self-tracking. We will draw insights from many projects where people have have used self-tracking as a way to make sense of themselves, the world around them, and perhaps to tell a story. We take a look at 5 major categories of self-tracking -- Monitoring & Evaluating, Eliciting Sensations, Aesthetic Curiosity, Debugging a Problem, & Cultivating a Habit -- as outlined by Neff & Nafus in Chapter 3 of Self-Tracking as well as go over some practical considerations for approaching these kinds of tracking. Last, we take a look at some case studies that examine questions of "who wants your data and what do they want to do with it?" focusing specifically on who has access to data. 
 
-We will also spend time this week to do a technical dive into some tools and technologies that will enable your data handling and visualization. Specifically we look over data types and create our first web based application for collecting structured data.
+We will take some time today to also look at what are common data formats we might encounter on our data journies and what we might start to do with data as we get more familiar with what properties they hold.
 
 ### MATERIALS
-- SLIDES: 
+- SLIDES: https://docs.google.com/presentation/d/1RLHcsng1As4OwiUWshjs8Dc4UXG8BTcK3YYaDMg9KFM/edit?usp=sharing
 
 ### AGENDA
 
 - Attendance
-- Assignment reviews:
+- Assignment reviews
   - paired feedback
   - selected Shareouts & Assignment Reviews:
     + Student 1
     + Student 2
     + Student 3
-    + Student 4
-- Case Study Highlight 
-- The Value of You
-- Data Methods: data, formats, structures, and simple interfacing
-  - data formats / what is data?
-  - database structure
-  - APIs and REST
-  - Web forms
-  - Client to Server, Server to Client 
-  - Putting it all together with Feathersjs
-- Assignment #2
+- Discussion:
+  - Quant Self Projects Reviews Highlights
+  - Project Showcase
+  - Data Collection and Self-Tracking + Practical Considerations
+  - Break
+  - Who wants your data and what do they want to do with it?
+  - Quick-and-dirty Data Primer 
+  - Practical example of Generative Visuals for your Data Feelings
+- Assignment #2: Dear Data
 
 
 
-
-## PRACTICE
-
-- Quantified Self, [Make Your Own Mobile Self Tracker with Google Docs](http://quantifiedself.com/2009/05/diy-mobile-self-tracker/)
-- [Raw Graphs](http://rawgraphs.io/) - generate quick charts for prototyping from CSVs
-- [Datasette Publish](https://simonwillison.net/2018/Jan/17/datasette-publish/) - build an API from your CSV files
-- [Online JSON Editor](http://jsoneditoronline.org/)
-- [Online GeoJSON Editor](http://geojson.io/)
-- [Open Refine](http://openrefine.org/) - free tool for cleaning and processing data
 
 ## READINGS
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 2: What is at stake? The personal gets political**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
-- - Rose, Brett., [No,No, Phones Aren't More Accurate Than Fitness Wearables](https://www.wired.com/2015/03/fitness-tracking-test/)
+- - Rose, Brett., [No,No, Phones Aren't More Accurate Than Fitness Wearables](https://www.wired.com/2015/03/fitness-tracking-test/) // note: things have likely improved since 2015 when this was written... but maybe not?
 - Eveleth, Rose., [Your Vagina is Not a Machine](http://www.refinery29.com/kgoal-loop-kegels-trackers) + [How self-tracking apps exclude women](https://www.theatlantic.com/technology/archive/2014/12/how-self-tracking-apps-exclude-women/383673/)
 - Meyer, Eric., [Inadvertent algorithmic cruelty](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
-- https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+
 
 ## ADDITIONAL READINGS
 - Wood, Chris., [The API of Me](https://nordicapis.com/the-api-of-me/)
@@ -82,12 +72,48 @@ We will also spend time this week to do a technical dive into some tools and tec
 - [Apple iHealth analysis workflow](http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/)
 - [NPM csv2api package](https://www.npmjs.com/package/node-csv2api)
 
+## PRACTICE
 
-## ASSIGNMENT 2 (DUE: WEEK `03`, 11 FEB 2019)
+- Quantified Self, [Make Your Own Mobile Self Tracker with Google Docs](http://quantifiedself.com/2009/05/diy-mobile-self-tracker/)
+- [Raw Graphs](http://rawgraphs.io/) - generate quick charts for prototyping from CSVs
+- [Datasette Publish](https://simonwillison.net/2018/Jan/17/datasette-publish/) - build an API from your CSV files
+- [Online JSON Editor](http://jsoneditoronline.org/)
+- [Online GeoJSON Editor](http://geojson.io/)
+- [Open Refine](http://openrefine.org/) - free tool for cleaning and processing data
 
-Last week we scoured our tools and services for data that has and is being produced about us. This week, we will continue with our focus on tracking but rather shift our attention to collecting data more intentionally with the use of our own homebrewed sensing solutions. 
 
-You will use Feathersjs to send data from a form to a web database. You will work from a template and build additional styling and functionality as you see fit. The goal is to try to get a feel for the workflow and components for sending data across the wire from a client to a server.
+***
+## ASSIGNMENT 2 (DUE: WEEK `03`, 11 FEB 2019): Dear Data
+***
+
+> "Drawing with data when data is the final output can be painful - it's laborious, demanding, frustrating." - Lupi, Dear Data
+
+> "...the act of counting became something that was emotionally charged" - Posavek, Dear Data
+> 
+
+Last week we scoured our tools and services for data that has and is being produced about us whether consciouly or not. This week, we make an effort to be deliberate about our tracking and to "practice paying attention... to strengthen the ability to see what is overlooked" and ultimately to fight what Rob Walker calls, "the war against seeing"; Walker is concerned that companies occupy every corner of our attention leading us to interpret the world on terms invented by the companies. 
+
+To do this you will, with a partner, embrace your inner Lupi-Posavek and "Dear Data" a feature of your life that might be illuminated through visualization.
+
+- **About**: Using "dear data" as a guide, create a set of rules to visualize your data. Think about the ways in which Georgia and Stefanie parameterized the aspects of their records to produce their visualizations. Find ways to express your own personal style and aesthetic in the implementation of your rules. 
+- **Submission**: Document your process and submit **images of your output** along with the accompanying **description of your visualization** and post your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
+
+from the [FiveThirtyEight Dear Data Feature](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/):
+
+```
+If you want to take part, keep in mind the basic rules of the Dear Data series:
+
+- The front of your postcard should only feature the visualization.
+- On the reverse, include a legend to explain your work.
+- You can use any shapes, colors, or materials you want, just as long as it fits on a postcard. But be creative! Can you move beyond a bar chart?
+```
+
+### Blog Post: Reflection
+- **About**: short paragraph or phrase on what you learned this week while doing this Dear Data Exercise + any thoughts about how your self-tracking ideas might be refined as you gain more exposure to the discussions about self-tracking.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
+
+
+**NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2019/blob/master/_templates/assignment-submission-template.md)  
 
 
 

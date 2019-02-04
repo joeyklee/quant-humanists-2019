@@ -1,0 +1,81 @@
+<!DOCTYPE html><html><head>
+    <script src="p5.min.js"></script>
+    <script src="p5.dom.min.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8">
+    <style>
+      *{
+      	box-sizing:border-box;
+        font-family:'Monaco';
+      }
+      
+      html, body{
+				margin: 0 auto;
+        padding:20px;
+        width:100%;
+        height:100%;
+      }
+      p{
+      	margin:0;
+        padding-bottom:10px;
+        text-align:center;
+        font-weight:bold;
+      }
+      #vizContainer{
+      	width:100%;
+
+      }
+      .grid-container{
+         display: grid;
+         grid-column-gap: 20px;
+          grid-row-gap: 20px;
+         grid-template-columns: auto auto;
+      }
+      
+      #myControls{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        border: 2px solid black;
+        padding:10px;
+      }
+      
+       #myCanvas{
+        grid-column-start: 2;
+        grid-column-end: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="grid-container" id="vizContainer">
+      <div id="myControls">
+        <p>My Data Feels</p>
+        <form id="myForm">
+          <fieldset>
+          <legend>Anxiety</legend>
+        	<input type="range" min="1" max="10" name="anxietyInput" id="anxietyInput">
+          </fieldset>
+          <fieldset>
+          <legend>Contentment</legend>
+        	<input type="range" min="1" max="10" name="contentmentInput" id="contentmentInput">
+          </fieldset>
+          <fieldset>
+          <legend>Stress</legend>
+        	<input type="range" min="1" max="10" name="stressInput" id="stressInput">
+          </fieldset>
+          <fieldset>
+          <legend>Productivity</legend>
+        	<input type="range" min="1" max="10" name="productivityInput" id="productivityInput">
+          </fieldset>
+          <fieldset>
+          <legend>Self Worth</legend>
+        	<input type="range" min="1" max="10" name="swInput" id="swInput">
+          </fieldset>
+        </form>
+      </div>
+      <div id="myCanvas"></div>
+    </section>
+    <script src="sketch.js"></script>
+  
+
+</body></html>

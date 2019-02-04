@@ -121,7 +121,7 @@ There are 3 parts of this week's assignment:
 
 ### A1.3: Blog Post: Reflection
 - **About**:  Write a short reflection about what your current relationship with self-tracking (e.g. hopes, dreams, perceptions), questions you have about self-tracking and how it could help or harm you, and how you hope the course will help facilitate your interests. Write about which questions you've identified to track, how you plan to track those variables of interest, and what challenges you expect to encounter as well as what you hope to learn. 
-- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+- **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
 **NOTE**: Please structure your blog post submissions according to the assignment template here: [Quant Humanist - assignment template](https://github.com/joeyklee/quant-humanists-2019/blob/master/_templates/assignment-submission-template.md) 
 

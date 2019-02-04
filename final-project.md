@@ -56,7 +56,7 @@ In **Option 2: Develop a Method or Tool**, you have the opportunity to design a 
 - an algorithm (e.g. a set of instructions on how to do tracking a certain way)
 - a visualization tool (e.g. a tool allowing others to more easily look at their data, perhaps more creatively?)
 - pull requests or development of an existing open source software
-
+- you may consider to think of a service for obfuscation or "untracking"
 
 
 ### Option 3: Design a Self-tracking service
@@ -68,7 +68,7 @@ In **Option 2: Design a Self-tracking service**, you have the opportunity to des
 - user research and community engagement
 - service design research materials (e.g. systems maps, service blueprints, user journey maps, etc)
 - proofs of concept, prototypes, and artifacts of your service proposal (e.g. make it as real as possible!)
-
+- you may consider to think of a service for obfuscation or "untracking"
 
 ### Option 4: Something else?
 
