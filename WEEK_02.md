@@ -28,7 +28,7 @@ We will take some time today to also look at what are common data formats we mig
   - Break
   - Who wants your data and what do they want to do with it?
   - Quick-and-dirty Data Primer 
-  - Practical example of Generative Visuals for your Data Feelings
+  - [Practical example of Generative Visuals for your Data Feelings](https://editor.p5js.org/joeyklee/sketches/WR8-d8p-N)
 - Assignment #2: Dear Data
 
 
@@ -42,7 +42,7 @@ We will take some time today to also look at what are common data formats we mig
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
 
 
-## ADDITIONAL READINGS
+## SUPPLEMENTAL READINGS
 - Wood, Chris., [The API of Me](https://nordicapis.com/the-api-of-me/)
 - Sandoval, Kristofer., [What data formats should my API support?](https://nordicapis.com/what-data-formats-should-my-api-support/)
 - Lowe, Scott., [What is JSON](https://blog.scottlowe.org/2013/11/08/a-non-programmers-introduction-to-json/)
