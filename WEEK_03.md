@@ -1,12 +1,8 @@
 # WEEK `03`: FEB 11 2019
-##  Representation and Access
+## Reflect: Seeing Our Data Selves
 
 > 
 
-
-This week in Quant Humanists, we will be thinking about representation and access in the world of self-tracking. Who are the target groups for these technologies? How do companies see the people they are looking to service? Who benefits (or is disadvantaged) because of self-tracking versus who could really use such technologies? How are people finding their own ways to track when the right tools don’t exist or when the larger institutional forces oppose them? How do we access the data we produce and what is its value?
-
-We will also...
 
 ### MATERIALS
 - SLIDES: 
@@ -14,7 +10,7 @@ We will also...
 ### AGENDA
 
 - Attendance
-- Assignment reviews:
+- Assignment reviews
   - paired feedback
   - selected Shareouts & Assignment Reviews:
     + Student 1
@@ -45,3 +41,5 @@ We will also...
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 3: Making Sense of Data**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
 
 ## ASSIGNMENT 3 (DUE: WEEK `04`, 26 FEB 2019)
+
+You will have 2 weeks to do this assignment. 

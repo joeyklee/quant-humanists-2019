@@ -87,7 +87,7 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | No Assignment | TBD |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
 | [WEEK 07](WEEK_07.md) | MAR 25 | Special Topics | A.5 - Intervention | N/A |
-| [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | Final project proposal | N/A |
+| [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | [Final project proposal](final-project.md) | N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
 | [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | N/A |
 | [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
