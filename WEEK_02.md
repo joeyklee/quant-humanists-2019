@@ -32,17 +32,16 @@ We will take some time today to also look at what are common data formats we mig
 - Assignment #2: Dear Data
 
 
-
-
 ## READINGS
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 2: What is at stake? The personal gets political**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
-- - Rose, Brett., [No,No, Phones Aren't More Accurate Than Fitness Wearables](https://www.wired.com/2015/03/fitness-tracking-test/) // note: things have likely improved since 2015 when this was written... but maybe not?
+- Walker, Rob., [How To Pay Attention: 20 Ways To Win The War Against Seeing](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
 - Eveleth, Rose., [Your Vagina is Not a Machine](http://www.refinery29.com/kgoal-loop-kegels-trackers) + [How self-tracking apps exclude women](https://www.theatlantic.com/technology/archive/2014/12/how-self-tracking-apps-exclude-women/383673/)
 - Meyer, Eric., [Inadvertent algorithmic cruelty](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/)
 - [Campos, Hugo., Fighting for the Right to Open his Heart Data: Hugo Campos at TEDxCambridge 2011](https://www.youtube.com/watch?v=oro19-l5M8k)
 
 
 ## SUPPLEMENTAL READINGS
+- Rose, Brett., [No,No, Phones Aren't More Accurate Than Fitness Wearables](https://www.wired.com/2015/03/fitness-tracking-test/) // note: things have likely improved since 2015 when this was written... but maybe not?
 - Wood, Chris., [The API of Me](https://nordicapis.com/the-api-of-me/)
 - Sandoval, Kristofer., [What data formats should my API support?](https://nordicapis.com/what-data-formats-should-my-api-support/)
 - Lowe, Scott., [What is JSON](https://blog.scottlowe.org/2013/11/08/a-non-programmers-introduction-to-json/)
@@ -72,8 +71,8 @@ We will take some time today to also look at what are common data formats we mig
 - [Apple iHealth analysis workflow](http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/)
 - [NPM csv2api package](https://www.npmjs.com/package/node-csv2api)
 
-## PRACTICE
 
+## PRACTICE
 - Quantified Self, [Make Your Own Mobile Self Tracker with Google Docs](http://quantifiedself.com/2009/05/diy-mobile-self-tracker/)
 - [Raw Graphs](http://rawgraphs.io/) - generate quick charts for prototyping from CSVs
 - [Datasette Publish](https://simonwillison.net/2018/Jan/17/datasette-publish/) - build an API from your CSV files
@@ -97,6 +96,7 @@ To do this you will, with a partner, embrace your inner Lupi-Posavek and "Dear D
 
 - **About**: Using "dear data" as a guide, create a set of rules to visualize your data. Think about the ways in which Georgia and Stefanie parameterized the aspects of their records to produce their visualizations. Find ways to express your own personal style and aesthetic in the implementation of your rules. 
 - **Submission**: Document your process and submit **images of your output** along with the accompanying **description of your visualization** and post your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
+- Bring your post cards to class to share! 
 
 from the [FiveThirtyEight Dear Data Feature](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/):
 
