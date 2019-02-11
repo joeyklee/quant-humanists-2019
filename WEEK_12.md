@@ -1,27 +1,13 @@
 # WEEK `12`: APR 29 2019
-## Special Topics
-
-> 
+## Final Project Presentations!
 
 
-### MATERIALS
-- SLIDES: 
+This week in Quant Humanists, we will have the final presentations, crit, and feedback for the projects we’ve been developing over the last few weeks. 
+
 
 ### AGENDA
 
-- Attendance
-- Assignment reviews
-  - paired feedback
-  - selected Shareouts & Assignment Reviews:
-    + Student 1
-    + Student 2
-    + Student 3
-    + Student 4
-
-
-
-## READINGS
-
-
-## ASSIGNMENT X (DUE: WEEK `04`, 26 FEB 2019)
-
+- Option 1: self-discovery
+- Option 2: Tool or Method
+- Option 3: Self-tracking Service
+- Option 4: Something else

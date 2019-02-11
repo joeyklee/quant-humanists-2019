@@ -62,7 +62,7 @@ You will have 2 weeks to do this assignment!
 
 This week you will follow the workshop link below to create your own personal data collection and visualization platform. 
 
-🔗 [Workshop Materials: Feathersjs + P5js](https://github.com/joeyklee/feathers-p5-example)
+🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
 
 ### Assignment details:
 You must do at least one of the following:
@@ -70,7 +70,7 @@ You must do at least one of the following:
 - **change the data model or create a new collection**: Change the data model by changing the properties in the data model `src/models/feelings.model.js`. Alternatively you may create an entirely new database by doing `feathers generate service` and developing another database in which to create your new data collection.
 - **create your own visual encodings**: with the current data structure or with your newly added database collection and data model, come up with intriguing and meaningful ways to visualize that data. You may use the existing structure of the "small multiples" which show each entry or change up that structure entirely. The key is that you make a GET request to your database and pull data dynamically. 
   
-NOTE: You do not need to deploy this application to the web, but you must document your work in a blog post. 
+NOTE: You do not need to deploy this application to the web, but you must document your work in a blog post. If you do want to deploy this application to the web - you should totally do it! See section: https://joeyklee.github.io/my-data-feelings/#/deploy
 
 - **Submission**: Submit your Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
