@@ -7,8 +7,8 @@ This week in Quant Humanists we will be thinking about the role of visualization
 We dedicate a majority of this class to work through building our own custom data collection and visualization web application. We will work through and discuss together the conceptual and technical details of implementing this application. 
 
 
-🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
-🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
+- 🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
+- 🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
 
 ![Sketch of a data collection and visualization web application](https://raw.githubusercontent.com/joeyklee/feathers-p5-example/master/assets/images/sketch-browse.png)
 
@@ -37,25 +37,36 @@ We dedicate a majority of this class to work through building our own custom dat
 
 
 
-
-<!-- 
-- The Value of You
-- Data Methods: data, formats, structures, and simple interfacing
-  - data formats / what is data?
-  - database structure
-  - APIs and REST
-  - Web forms
-  - Client to Server, Server to Client 
-  - Putting it all together with Feathersjs
-
-  
- -->
-
-
-
 ## READINGS
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 3: Making Sense of Data**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
+- [The Psychology of Shapes - Knock Design into Shape. Psychology of Shapes](https://tubikstudio.com/knock-design-into-shape-psychology-of-shapes/), [The Meaning of Shapes and How to Use Them Creatively in Your Designs](https://visme.co/blog/geometric-meanings/)
+
+## Supplemental Resources
 - NY Times, [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+- Avirgan, Jody., [Dear Data + FiveThirtyEight want you to visualize your podcast habits](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/) 
+- Anonymous., originally in WIRED, [The nerdy charm of artisanal, hand drawn infographics](http://onlinefitnesshelp.com/the-nerdy-charm-of-artisanal-hand-drawn-infographics/)
+- [Fry, Ben., Visualizing Data](https://www.safaribooksonline.com/library/view/visualizing-data/9780596514556/ch01.html)
+- Sniderman, Zachary., [Manhattan of the Mind](http://www.nytimes.com/interactive/2013/02/17/magazine/mapping-manhattan.html#2)
+- Farris, Jessica., [The hand-drawn infographics of W.E.B. Dubois](http://www.printmag.com/article/hand-drawn-infographics-w-e-b-dubois/)
+- Evans, Kristen., [Bullet Journaling as an analog journaling alternative](http://theperfectdiy.com/12-layout-ideas-youll-want-to-steal-for-your-bullet-journal/), from [Pinterest, strategies for journaling and data keeping](https://www.pinterest.com/pin/230950287122242133/)
+- Newton, Mark., [GutenTag Stamp for organizing your day radially](https://www.kickstarter.com/projects/gutentag/gutentag-see-the-day-seize-the-day-day-planner?ref=category)
+- Thorp, Jer., Blog, [On Data and Performance, Jer Thorp](http://blog.blprnt.com/blog/blprnt/on-data-and-performance)
+- Frick, Laurie., [Frickbits, turn your data into art](http://www.frickbits.com/)
+- Frick, Laurie., [Visual Language for Self Tracking](https://vimeo.com/31875319)
+- [Lupi, Georgia., Data Humanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)
+- [Lupi, Georgia., Bruises](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
+
+## ADDITIONAL RESOURCES
+
+- Vigen, Tyler., [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+- Meyer, Sebastian and Glinka, Katrin., Talk, [Psychogeography in the age of the quantified self](https://vimeo.com/195647160)
+- [Phototrails](http://phototrails.info/instagram-cities/) - global instagram visual city signatures
+- Von Bismark, Julius., [Topshot helmet](http://juliusvonbismarck.com/bank/index.php?/projects/topshot-helmet/) 
+- Hildebrandt, Lennart, and Otten, Heike., [Shifted Maps, FH Potsdam | UCLab](http://www.heikeotten.de/portfolio/shiftedmaps/)
+- Huang, Shan., [Iconic History](https://chrome.google.com/webstore/detail/iconic-history/hfacpfhgpmaifaanbmgbbjkfgelookom?hl=en) - visualize your [browser history in favicons](https://www.fastcodesign.com/3027816/this-plugin-visualizes-your-entire-browser-history#4)
+- [OpenNews.org, Drawing Conclusions from Data](https://source.opennews.org/articles/statistically-sound-data-journalism/)
+- [Rost, Lisa., 6 years of google searches](https://lisacharlotterost.github.io/2015/06/20/Searching-through-the-years/)
+
 
 ## ASSIGNMENT 3 (DUE: WEEK `04`, 25 FEB 2019)
 
@@ -63,8 +74,8 @@ You will have 2 weeks to do this assignment!
 
 This week you will follow the workshop link below to create your own personal data collection and visualization platform. 
 
-🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
-🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
+- 🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
+- 🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
 
 ### Assignment details:
 You must do at least one of the following:
