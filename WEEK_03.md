@@ -21,17 +21,13 @@ We dedicate a majority of this class to work through building our own custom dat
 - Attendance
 - Assignment reviews
   - paired feedback
-  - selected Shareouts & Assignment Reviews
-    + Student 1
-    + Student 2
-    + Student 3
-    + Student 4
 - Discussion
   - Project Highlight
-  - Practical Considerations for Self-tracking Analysis
-  - Visualization Methodologies
-  - Data Access - What's an API? 
-- Tutorial:
+  - Assignment #3 Overview
+  - Web Applications and APIs
+  - Web Frameworks
+  - Assignmeent #3 up and running
+- Tutorial Overview:
   - Your first full-stack ✨ web application using Feathers.js and P5.js 
 - Assignment #3
 
@@ -39,6 +35,8 @@ We dedicate a majority of this class to work through building our own custom dat
 
 ## READINGS
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 3: Making Sense of Data**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
+- Weiderkehr, Anna., [Fine](https://master.annawiederkehr.com/)
+- Weiderkehr, Anna., [Fine, exhibition app](http://fine-exhibition.annawiederkehr.com/record)
 - [The Psychology of Shapes - Knock Design into Shape. Psychology of Shapes](https://tubikstudio.com/knock-design-into-shape-psychology-of-shapes/), [The Meaning of Shapes and How to Use Them Creatively in Your Designs](https://visme.co/blog/geometric-meanings/)
 
 ## Supplemental Resources
