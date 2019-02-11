@@ -7,7 +7,8 @@ This week in Quant Humanists we will be thinking about the role of visualization
 We dedicate a majority of this class to work through building our own custom data collection and visualization web application. We will work through and discuss together the conceptual and technical details of implementing this application. 
 
 
-🔗 [Workshop Materials: Feathersjs + P5js](https://github.com/joeyklee/feathers-p5-example)
+🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
+🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
 
 ![Sketch of a data collection and visualization web application](https://raw.githubusercontent.com/joeyklee/feathers-p5-example/master/assets/images/sketch-browse.png)
 
@@ -63,6 +64,7 @@ You will have 2 weeks to do this assignment!
 This week you will follow the workshop link below to create your own personal data collection and visualization platform. 
 
 🔗 [Workshop Materials: My data feelings -- Full stack app with Feathersjs + P5js](https://joeyklee.github.io/my-data-feelings/#/)
+🔗 [Code Repo](https://github.com/joeyklee/my-data-feelings)
 
 ### Assignment details:
 You must do at least one of the following:
