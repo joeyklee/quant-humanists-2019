@@ -65,12 +65,12 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
 | [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Understanding Our Signals  | A.3 - Data Selfie | Guest Reviews from E. Wickett & A. Anzollitto |
 | [WEEK 05](WEEK_05.md) | MAR 04 | Act: Quant Self as a Service  |  A.4 - Drawing Connections | TBD |
-| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | No Assignment | TBD |
+| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | No Assignment | Guest Speaker: Daniel Goddemeyer |
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
 | [WEEK 07](WEEK_07.md) | MAR 25 | Special Topics | A.5 - Intervention | Field Trip to Mt. Sinai <br> Meet at  |
 | [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | [Final project proposal](final-project.md) | N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
-| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | N/A |
+| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | Guest Speaker: Maya Man |
 | [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
 | [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 |
 
