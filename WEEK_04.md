@@ -20,7 +20,6 @@ This week we're going to take some more time to think about APIs and how they pr
 - Assignment 4 Overview: https://github.com/joeyklee/data-selfie-app
 
 
-
 ## READINGS
 - Neff, Gina., Nafus, Dawn., [Self-Tracking, **Chapter 4: Self Tracking and the Technology Industry**](https://ieeexplore-ieee-org.proxy.library.nyu.edu/book/7580017?bknumber=7580017), MIT Essential Knowledge Series. Print Copies available through NYU Library or PDFs though the IEEE Explore Library. 
     - Worth keeping your eye on is the 3 emerging markets in self-tracking -- the health line, the luxury line, and the work line -- and the fuzzy regulatory patchwork which governs them. 
@@ -28,7 +27,15 @@ This week we're going to take some more time to think about APIs and how they pr
 ## References 
 - Daniel Goddemeyer et al, Data Futures Interactive Discussion -- see: https://www.youtube.com/watch?v=MJeXyPFYVEY
 - Lee. J., Data Selfie App - https://github.com/joeyklee/data-selfie-app 
-- 
+- Spurious Correlations: http://www.tylervigen.com/spurious-correlations
+- On stats and correlations:
+  - http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit
+  - https://study.com/academy/lesson/pearson-correlation-coefficient-formula-example-significance.html
+  - https://www.thinglink.com/scene/439530871238688769
+  - https://source.opennews.org/articles/statistically-sound-data-journali
+- The Truthful Art, Alberto Cairo - https://www.oreilly.com/library/view/the-truthful-art/9780133440492/
+
+
 
 ## Supplemental References
 - Hahn, Evan., Express in Action - https://www.manning.com/books/express-in-action
