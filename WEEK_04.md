@@ -28,11 +28,14 @@ This week we're going to take some more time to think about APIs and how they pr
 ## References 
 - Daniel Goddemeyer et al, Data Futures Interactive Discussion -- see: https://www.youtube.com/watch?v=MJeXyPFYVEY
 - Lee. J., Data Selfie App - https://github.com/joeyklee/data-selfie-app 
+- 
 
 ## Supplemental References
 - Hahn, Evan., Express in Action - https://www.manning.com/books/express-in-action
 - Lee, J., Feathers.js and P5.js - https://github.com/joeyklee/feathersjs-p5-example 
 - Lee J., Visualizing CO2 Data - https://github.com/sva-dsi/2018-fall-course/tree/master/examples/co2-visualization-1/process, https://github.com/sva-dsi/2018-fall-course/tree/master/examples/co2-visualization-2/process 
+- Wu, Shirley,. http://sxywu.com/travel/
+
 
 ## ASSIGNMENT 4 (DUE: WEEK `05`, 04 MAR 2019): Drawing Connections
 
