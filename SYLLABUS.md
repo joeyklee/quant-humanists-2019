@@ -71,7 +71,7 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | [Final project proposal](final-project.md) | N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
 | [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | Guest Speaker: Maya Man |
-| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | N/A |
+| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | Guest Speaker: Rose Eveleth |
 | [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 |
 
 
