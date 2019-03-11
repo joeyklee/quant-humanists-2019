@@ -62,16 +62,17 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | [WEEK 01](WEEK_01.md) | JAN 28 | Track: Introduction to self-tracking | Hello & Welcome | Brainstorming |
 | [WEEK 02](WEEK_02.md) | FEB 04 | Track: Data and Tracking Practices |  A.1 - data double | Data Primer & Generative Visuals teaser |
 | [WEEK 03](WEEK_03.md) | FEB 11 | Reflect: Seeing Our Data Selves | A.2 - Dear Data  | Your own tracking tools Workshop |
-| HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A |
-| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Understanding Our Signals  | A.3 - Data Selfie | Guest Reviews from E. Wickett & A. Anzollitto |
-| [WEEK 05](WEEK_05.md) | MAR 04 | Act: Quant Self as a Service  |  A.4 - Drawing Connections | TBD |
-| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | No Assignment | Guest Speaker: Daniel Goddemeyer |
+| HOLIDAY | FEB 18 | President's Day Observed | N/A | N/A | 
+| [WEEK 04](WEEK_04.md) | FEB 25 | Reflect: Understanding Our Signals  | n/a | Guest Reviews from E. Wickett & A. Anzollitto |
+| WEEK 05 | MAR 04 | CLASS CANCELED - WEATHER  |  N/A | N/A |
+| [WEEK 06](WEEK_06.md) | MAR 11 | Act: Interventions & Untracking | A.4 - Data Selfie 2.0 | Guest Speaker: [Daniel Goddemeyer](http://danielgoddemeyer.com/)|
 | HOLIDAY | MAR 18 | Spring Break Observed | N/A | N/A |
-| [WEEK 07](WEEK_07.md) | MAR 25 | Special Topics | A.5 - Intervention | Field Trip to Mt. Sinai <br> Meet at  |
+| [WEEK 07](WEEK_07.md) | MAR 25 | Personalized Medicie & Biomedical Research Consent | A.5 - Intervention | Meet at/Field Trip to [Mt. Sinai](https://www.google.com/maps/place/770+Lexington+Ave+14th+floor,+New+York,+NY+10065/@40.7631599,-73.9700766,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258ef7b9b6797:0x390b12ebd725a14!8m2!3d40.7631599!4d-73.9678826)  |
+| [WEEK 07 - Make up class](WEEK_05.md) | MAR 26 | Special Topics | N/A | Make up class for week 5 |
 | [WEEK 08](WEEK_08.md) | APR 01 | Special Topics | [Final project proposal](final-project.md) | N/A |
 | [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
-| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | Guest Speaker: Maya Man |
-| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | Guest Speaker: Rose Eveleth |
+| [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | Guest Speaker: [Maya Man](https://www.mayaman.cc/) |
+| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | Guest Speaker: [Rose Eveleth](http://roseveleth.com/) |
 | [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 |
 
 
