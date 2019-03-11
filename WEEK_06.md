@@ -33,7 +33,6 @@ As we explore the things that motivate behavior change, we also look at the ways
 ![Social Turkers](assets/images/social-turkers.png)
 * [Social Turkers, Lauren McCarthy](http://socialturkers.com/)
 
-
 * Eveleth, Rose [How Self-Tracking Apps Exclude Women](https://www.theatlantic.com/technology/archive/2014/12/how-self-tracking-apps-exclude-women/383673/)
 
 ## READINGS
@@ -63,7 +62,6 @@ As we explore the things that motivate behavior change, we also look at the ways
 
 - Eveleth, Rose [How Many Photographs of You Are Out There In the World?](https://www.theatlantic.com/technology/archive/2015/11/how-many-photographs-of-you-are-out-there-in-the-world/413389/)
 - Eveleth, Rose [There is no, 'off the record'](https://www.wnycstudios.org/story/transcript-recorded-future-flash-forward)
-
 - Goldsmith, Marshall., [An exercise in behavioral change](https://hbr.org/2010/01/an-exercise-in-changing-yourse)
 - Grave, Calugi, Centis, El Ghoch, Marchesini., [Cognitive-Behavioral Strategies to Increase the Adherence to Exercise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2968119/)
 - [Coach.me](https://www.coach.me/) - app to track your momentum toward a goal
@@ -118,7 +116,7 @@ This week your assignment is to design a quantified self intervention. In this c
   - voice or auditory feedback (think: Rock Alarm clock)
   - award system concepts, monetary or otherwise e.g. Well Coin
 
-- **Submission**: Submit documentation of your quant self intervention - including images, graphics, text descriptions, etc - as a Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2018 repository](https://github.com/joeyklee/quant-humanists-2018/issues). See NOTE below.
+- **Submission**: Submit documentation of your quant self intervention - including images, graphics, text descriptions, etc - as a Github Gist/blog post link as a [`comment in its respective github issue` in the quant-humanists-2019 repository](https://github.com/joeyklee/quant-humanists-2019/issues). See NOTE below.
 
 
 
