@@ -18,6 +18,7 @@ This session we will spend some time to review what we've learned up to this poi
   - New: Camera Restrica, Philipp Schmitt - 
 - **Quick pointer to physical data logging device**: should you have the hankering to build a more physical device, you may consider using this starter instructions to build a more physically computing data tracker. I can only give you limited feedback hee since pComp is not my forté but you're welcome to explore a more physical data collection and feedback tool if your heart desires.
   - https://github.com/joeyklee/gpslogger_plus
+- **Quick pointer to Siri Shortcuts App & MacroDroid**: this past week, we came to know Siri Shortcuts app for iOS and MacroDroid for android phones. Let's have a quick peek at these to see what kinds of workflows we might be able to think up and how coming up with these kinds of workflows could helpful for others building self-tracking tools. If you build a cool one, maybe it is worth sharing with the quant self community?
 - **Chart.js Demo**: At some point you may want to build nice interactive charts without the huff and puff of having to define your own complex transitions and events. There are a bunch of charting libriaries that attempt to make our lives easier while still allowing for customization. I can recommend chart.js but similar libraries also include: https://eventbrite.github.io/britecharts/, https://naver.github.io/billboard.js/, or    https://plot.ly/javascript/.
   - see: https://www.chartjs.org/
 
