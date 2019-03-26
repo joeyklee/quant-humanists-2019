@@ -30,6 +30,11 @@ This session we will spend some time to review what we've learned up to this poi
 - The superpower of interactive visualization: https://do.minik.us/blog/a-micro-macro-view
 - Data Visualization vs UI and data science: https://medium.com/@lynn_72328/data-visualization-versus-ui-and-data-science-d59182d58af4
 - Make Data More Human: https://www.ted.com/talks/jer_thorp_make_data_more_human
+- **Grammar of Graphics**:
+  - https://ggplot2.tidyverse.org/
+  - https://vita.had.co.nz/papers/layered-grammar.html
+  - https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149
+  - https://ramnathv.github.io/pycon2014-r/visualize/ggplot2.html
 - Visualization tools and libraries:
 - **Podcasts**:
   - Data Stories with Moritz and Enrico: http://datastori.es/
@@ -55,6 +60,15 @@ This session we will spend some time to review what we've learned up to this poi
 - **GUI Tools**:
   - https://rawgraphs.io/
   - https://public.tableau.com/en-us/s/
+- **Other But imprtant tools**:
+  - **R**: 
+    - https://r4ds.had.co.nz/
+    - https://learn.r-journalism.com/en/
+    - https://www.r-project.org/
+    - GGPLOT for R: https://ggplot2.tidyverse.org/
+  - **Python Pandas**
+    - https://pandas.pydata.org/
+    - python ggplot: http://ggplot.yhathq.com/
 - **Books**:
   - The Visual Display of Quantitative Information: https://www.edwardtufte.com/tufte/books_vdqi
   - Truthful Art: http://www.thefunctionalart.com/p/the-truthful-art-book.html
@@ -65,6 +79,10 @@ This session we will spend some time to review what we've learned up to this poi
 - Quantified Breakup: http://quantifiedbreakup.tumblr.com/
 
 
+## Examples:
+- Vega: https://github.com/sva-dsi/2018-fall-course/tree/master/examples/vega
+- D3 Examples (definitely check out Curren Kelleher's tutorial mentioned above): https://github.com/sva-dsi/2018-fall-course/tree/master/examples/d3
+- R: https://github.com/sva-dsi/2018-fall-course/tree/master/examples/r-examples
 
 
 
