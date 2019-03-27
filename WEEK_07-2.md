@@ -11,6 +11,7 @@ This session we will spend some time to review what we've learned up to this poi
 - **Express Simple Authentication and deployment walkthrough**: Let's go over the express simple authentication example with mongodb and walk through how to deploy this to Heroku.
   - https://github.com/joeyklee/very-basic-express-auth-example/tree/with-mongodb
   - let's do a live coding video for this for archival :) 
+  - video here: https://youtu.be/kLv9J0KLeCQ
 - **Project highlights**: Let's go through some of the project videos from last week that we didn’t manage to watch together. 
   - Professional Sharing, Yosuke Ushigome & takram london: https://www.takram.com/projects/professional-sharing/
   - Uninvited Guests, Superflux: https://vimeo.com/128873380
@@ -78,7 +79,8 @@ This session we will spend some time to review what we've learned up to this poi
 
 ## Additional References:
 - Quantified Breakup: http://quantifiedbreakup.tumblr.com/
-
+- Sam Slover, Designing for Data personalization: https://github.com/sslover/designing-for-data-personalization
+- Sam Slover, API of You: https://github.com/sslover/api-of-you
 
 ## Examples:
 - Vega: https://github.com/sva-dsi/2018-fall-course/tree/master/examples/vega
