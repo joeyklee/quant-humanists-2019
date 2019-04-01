@@ -19,7 +19,10 @@
 
 
 ## READINGS
+- [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret, New York Times](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+- [James Bridle, Something is wrong on the internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 - [Dynamic modelling of n-of-1 data: powerful and flexible data analytics applied to individualised studies](https://www.tandfonline.com/doi/full/10.1080/17437199.2017.1343680) / skim to get a feeling about modeling and statistical exploration of personal physcial activity data and analyzing the specific factors that the researchers looked at to examine physical activity trends.
+- [Sorry, your data can still be identified even if it’s anonymized](https://www.fastcompany.com/90278465/sorry-your-data-can-still-be-identified-even-its-anonymized)
 - [Dangerous Data: the role of data collection in genocides](https://www.theengineroom.org/dangerous-data-the-role-of-data-collection-in-genocides/) 
 - Sonnad, Nikhil., [Data scientist Cathy O’Neil on the cold destructiveness of big data](https://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/)
 
