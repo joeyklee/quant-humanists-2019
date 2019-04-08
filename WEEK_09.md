@@ -12,7 +12,7 @@
 - Attendance
 - Final Project Proposal Reviews / Peer Review Feedback and updates
 - Slides: Tracking at Scale
-- [What is Statistical Modeling?](https://help.xlstat.com/customer/en/portal/articles/2062460-what-is-statistical-modeling-?b_id=9283) 
+<!-- - [What is Statistical Modeling?](https://help.xlstat.com/customer/en/portal/articles/2062460-what-is-statistical-modeling-?b_id=9283)  -->
 
 
 ## READINGS
