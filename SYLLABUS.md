@@ -70,9 +70,9 @@ NOTE: the `ASSIGNMENT DUE` column indicates what is due on that week after havin
 | [WEEK 07](WEEK_07.md) | MAR 25 | Personalized Medicie & Biomedical Research Consent | A.5 - Intervention | Meet at/Field Trip to [Mt. Sinai](https://www.google.com/maps/place/770+Lexington+Ave+14th+floor,+New+York,+NY+10065/@40.7631599,-73.9700766,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258ef7b9b6797:0x390b12ebd725a14!8m2!3d40.7631599!4d-73.9678826)  |
 | [WEEK 07 - Make up class](WEEK_07-2.md) | MAR 26 | Exercises + Review | N/A | Make up class for week 5 |
 | [WEEK 08](WEEK_08.md) | APR 01 | Proposal Reviews| [Final project proposal](final-project.md) | N/A |
-| [WEEK 09](WEEK_09.md) | APR 08 | Special Topics | Final project development | N/A |
+| [WEEK 09](WEEK_09.md) | APR 08 | Tracking at Scale | Final project development | N/A |
 | [WEEK 10](WEEK_10.md) | APR 15 | Special Topics | Final project check-ins | Guest Speaker: [Maya Man](https://www.mayaman.cc/) |
-| [WEEK 11](WEEK_11.md) | APR 22 | Special Topics | Final Project development | Guest Speaker: [Rose Eveleth](http://roseveleth.com/) |
+| [WEEK 11](WEEK_11.md) | APR 22 | The Value of You | Final Project development | Guest Speaker: [Rose Eveleth](http://roseveleth.com/) |
 | [WEEK 12](WEEK_12.md) | APR 29 | Last Class | Final Project Presentations | 🎉 |
 
 
