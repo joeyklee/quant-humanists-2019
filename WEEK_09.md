@@ -12,6 +12,12 @@
 - Attendance
 - Final Project Proposal Reviews / Peer Review Feedback and updates
 - Slides: Tracking at Scale
+  - Examining large-scale tracking from multiple perspectives:
+    - Historical examples
+    - Contemporary examples
+    - Tracking and its effects on web performance, design, mobility, business development
+    - Counter measures
+    - 
 <!-- - [What is Statistical Modeling?](https://help.xlstat.com/customer/en/portal/articles/2062460-what-is-statistical-modeling-?b_id=9283)  -->
 
 
