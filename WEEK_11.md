@@ -4,7 +4,10 @@
 Today in Quant Humanists, we chat with Rose Eveleth and wrap up and review what we covered in this class. It has been wonderful learning with you this semester!
 
 ### Guest Speaker: Rose Eveleth
+> Rose Eveleth is a producer, host, reporter and writer based in Berkeley. She's dabbled in everything from research on pelagic invertebrates to animations about beer to podcasts about fake tumbleweed farms. These days, she explores how humans tangle with science and technology. These days she's the producer and host of Flash Forward, a podcast about the future.
+
 * Rose's Website: http://roseveleth.com/
+* Learn more about here: http://roseveleth.com/about/
 * Selected Readings:
   * [Facing Tomorrow's High-Tech School Surveillance](https://motherboard.vice.com/en_us/article/j53ba3/facial-recognition-school-surveillance-v25n3)
   * [The limits of empathy](https://www.topic.com/the-limits-of-empathy/)
